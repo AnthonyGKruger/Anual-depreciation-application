@@ -1,0 +1,12 @@
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_2\Question 2\Question 2\bin\Debug\Question 2.exe.config
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_2\Question 2\Question 2\bin\Debug\Question 2.exe
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_2\Question 2\Question 2\bin\Debug\Question 2.pdb
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_2\Question 2\Question 2\bin\Debug\Question 2.xml
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_2\Question 2\Question 2\obj\Debug\Question 2.vbprojAssemblyReference.cache
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_2\Question 2\Question 2\obj\Debug\Question_2.Resources.resources
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_2\Question 2\Question 2\obj\Debug\Question 2.vbproj.GenerateResource.cache
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_2\Question 2\Question 2\obj\Debug\Question 2.vbproj.CoreCompileInputs.cache
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_2\Question 2\Question 2\obj\Debug\Question 2.exe
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_2\Question 2\Question 2\obj\Debug\Question 2.xml
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_2\Question 2\Question 2\obj\Debug\Question 2.pdb
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_2\Question 2\Question 2\obj\Debug\Question_2.RGIT_annual_asset_depreciation_App.resources
